@@ -214,3 +214,30 @@ input[type=submit]:hover {
     background-color: #cccccc;
 }
 
+@media screen and (max-width: 980px) {
+    section {
+        width: 60%;
+    }
+    .sidebar {
+        width: 35%;
+    }
+
+
+@media screen and (max-width: 768px) {
+    section {
+        width: 100%;
+    }
+    .sidebar {
+        width: 100%;
+    }
+
+@media screen and (max-width: 640px) {
+ 
+ header {
+    width: 100%;
+     }
+    nav {
+    width: 100%;
+    }
+
+
